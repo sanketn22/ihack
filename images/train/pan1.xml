@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>pan1.png</filename>
+	<path>C:\Users\Sanket\Desktop\ihack\images\train\pan1.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1180</width>
+		<height>764</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pan card</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>4</ymin>
+			<xmax>1180</xmax>
+			<ymax>760</ymax>
+		</bndbox>
+	</object>
+</annotation>
