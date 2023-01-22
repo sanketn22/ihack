@@ -1,0 +1,26 @@
+<annotation>
+	<folder>check_leaf</folder>
+	<filename>cheque (2).jpg</filename>
+	<path>D:\Git repos\ihack\training_demo\images\check_leaf\cheque (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>163</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cheque</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>15</ymin>
+			<xmax>276</xmax>
+			<ymax>115</ymax>
+		</bndbox>
+	</object>
+</annotation>

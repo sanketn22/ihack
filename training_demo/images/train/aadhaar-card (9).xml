@@ -1,0 +1,50 @@
+<annotation>
+	<folder>train</folder>
+	<filename>aadhaar-card (9).jpg</filename>
+	<path>D:\Git repos\ihack\training_demo\images\train\aadhaar-card (9).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>adhaar card</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>23</ymin>
+			<xmax>247</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>adhaar card</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>270</xmin>
+			<ymin>19</ymin>
+			<xmax>382</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>adhaar card</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>445</xmin>
+			<ymin>36</ymin>
+			<xmax>566</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+</annotation>

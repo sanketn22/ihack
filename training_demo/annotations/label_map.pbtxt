@@ -10,7 +10,7 @@ item {
 
 item {
     id: 3
-    name: 'cheque leaf'
+    name: 'cheque'
 }
 
 item {
@@ -40,7 +40,7 @@ item {
 
 item {
     id: 9
-    name: 'utility bill'
+    name: 'bill'
 }
 
 item {
