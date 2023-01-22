@@ -5,5 +5,49 @@ item {
 
 item {
     id: 2
-    name: 'bike'
+    name: 'aadhar card'
+}
+
+item {
+    id: 3
+    name: 'cheque leaf'
+}
+
+item {
+    id: 4
+    name: 'voter id'
+}
+
+item {
+    id: 5
+    name: 'passport'
+}
+
+item {
+    id: 6
+    name: 'salary slip'
+}
+
+item {
+    id: 7
+    name: 'bank statement'
+}
+
+item {
+    id: 8
+    name: 'driving license'
+}
+
+item {
+    id: 9
+    name: 'utility bill'
+}
+
+item {
+    id: 10
+    name: 'form 16'
+}
+item {
+    id: 11
+    name: 'selfie'
 }
