@@ -1,7 +1,7 @@
-<annotation>
-	<folder>bills</folder>
-	<filename>1.jpg</filename>
-	<path>D:\Git repos\ihack\training_demo\images\bills\1.jpg</path>
+<annotation verified="yes">
+	<folder>train</folder>
+	<filename>bill (1).jpg</filename>
+	<path>D:\Git repos\ihack\training_demo\images\train\bill (1).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>

@@ -1,7 +1,7 @@
-<annotation>
-	<folder>train</folder>
+<annotation verified="yes">
+	<folder>test</folder>
 	<filename>pan_from_internet3.png</filename>
-	<path>C:\Users\Sanket\Desktop\ihack\images\train\pan_from_internet3.png</path>
+	<path>D:\Git repos\ihack\training_demo\images\test\pan_from_internet3.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>

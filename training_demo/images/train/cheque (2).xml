@@ -1,7 +1,7 @@
-<annotation>
-	<folder>check_leaf</folder>
+<annotation verified="yes">
+	<folder>train</folder>
 	<filename>cheque (2).jpg</filename>
-	<path>D:\Git repos\ihack\training_demo\images\check_leaf\cheque (2).jpg</path>
+	<path>D:\Git repos\ihack\training_demo\images\train\cheque (2).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>

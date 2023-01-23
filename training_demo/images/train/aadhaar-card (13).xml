@@ -1,4 +1,4 @@
-<annotation>
+<annotation verified="yes">
 	<folder>train</folder>
 	<filename>aadhaar-card (13).jpg</filename>
 	<path>D:\Git repos\ihack\training_demo\images\train\aadhaar-card (13).jpg</path>
@@ -18,9 +18,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1</xmin>
-			<ymin>2</ymin>
-			<xmax>736</xmax>
-			<ymax>1904</ymax>
+			<ymin>1</ymin>
+			<xmax>728</xmax>
+			<ymax>1894</ymax>
 		</bndbox>
 	</object>
 </annotation>

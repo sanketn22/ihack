@@ -1,7 +1,7 @@
-<annotation>
-	<folder>adhaar card</folder>
+<annotation verified="yes">
+	<folder>test</folder>
 	<filename>aadhaar-card (1).jpg</filename>
-	<path>D:\Git repos\ihack\training_demo\images\adhaar card\aadhaar-card (1).jpg</path>
+	<path>D:\Git repos\ihack\training_demo\images\test\aadhaar-card (1).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>

@@ -1,7 +1,7 @@
-<annotation>
-	<folder>check_leaf</folder>
+<annotation verified="yes">
+	<folder>train</folder>
 	<filename>cheque (6).jpg</filename>
-	<path>D:\Git repos\ihack\training_demo\images\check_leaf\cheque (6).jpg</path>
+	<path>D:\Git repos\ihack\training_demo\images\train\cheque (6).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,9 +17,9 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1</xmin>
+			<xmin>2</xmin>
 			<ymin>1</ymin>
-			<xmax>817</xmax>
+			<xmax>818</xmax>
 			<ymax>339</ymax>
 		</bndbox>
 	</object>
